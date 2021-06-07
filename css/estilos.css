@@ -1,11 +1,15 @@
-body {
-    color: black;
-    text-align: left;
-    font-family: sans-serif;
-}
-
-#container {
-    width: 70rem;
-    padding: 1em;
-    border: 1px solid black;
-}
+        body {
+            color: black;
+            text-align: left;
+            font-family: sans-serif;
+            font-size: 16px;
+            margin: 0;
+            padding: 0;
+        }
+        
+        #cabecera {
+            background: blue;
+            color: white;
+            padding: 0.5em;
+            font-weight: bold;
+        }
