@@ -13,3 +13,9 @@
             padding: 0.5em;
             font-weight: bold;
         }
+        
+        #container {
+            width: 70rem;
+            padding: 1em;
+            border: 1px solid black;
+        }
